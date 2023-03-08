@@ -1,0 +1,53 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.newspaper {
+  padding: 0.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: white;
+  cursor: pointer;
+}
+
+.scroll{
+  padding: 0.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: white;
+  cursor: pointer;
+  font-size: 10;
+}
+
+.box{
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+  background-color: green;
+}
+
+.letter{
+  display: inline-block;
+  opacity: 0;
+  color: white
+}
+
+
+.ball{
+  width: 50px;
+  height: 50px;
+  
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: grey;
+  float: left;
+  margin-bottom: 200px;
+}
