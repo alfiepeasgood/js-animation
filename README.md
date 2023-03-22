@@ -6,4 +6,4 @@ How to view: <br />
     - Open the folder <br />
     - Run 'index.html'<br />
 <br />
-https://strong-frangipane-7e69a0.netlify.app
+https://js-animation-alfiepeasgood.netlify.app
